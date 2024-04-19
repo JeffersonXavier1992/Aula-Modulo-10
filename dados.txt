@@ -1,11 +1,15 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Jefferson Xavier 
+-Profissão: Comprador 
+-Cidade: Cotia -SP
+-O que faz nas horas vaga: Jogo futebol, toco instrumentos musicais, e vou a estadios de futebol
+
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante do curso, ele esta me ajudando 
+a trabalhar mais a mente.
+
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma ajuda bastate nos alunos tirar as duvidas
+e tudo fica bem claro.
 
 Obrigado!!!
 
